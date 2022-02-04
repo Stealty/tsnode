@@ -1,3 +1,3 @@
-"use strict";const a = 5;
+"use strict";const a = 5
 
-console.log(a);
+console.log(a)
